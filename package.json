@@ -1,0 +1,17 @@
+{
+  "name": "react_pratice3",
+  "version": "1.0.0",
+  "description": "This is react pratice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "pratice",
+    "sachinsoumya",
+    "js"
+  ],
+  "author": "Soumya Sachin",
+  "license": "ISC"
+}
