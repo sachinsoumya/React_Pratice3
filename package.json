@@ -13,5 +13,8 @@
     "js"
   ],
   "author": "Soumya Sachin",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
 }
